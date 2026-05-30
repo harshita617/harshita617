@@ -2,16 +2,6 @@
 
 ### Data Analytics | Machine Learning | AI Enthusiast
 
-🎓 Final Year B.Tech Student in Electronics & Communication Engineering at Sreenidhi Institute of Science and Technology, Hyderabad.
-
-📊 Passionate about transforming raw data into actionable insights through Data Analytics, Business Intelligence, and Machine Learning.
-
-💻 Experienced in Python, SQL, Power BI, Data Visualization, Machine Learning, and Web Scraping.
-
-🚀 Former Software Intern at NukkadShops, where I contributed to the development of a voice assistant application integrated into a retail dashboard platform used by 10,000+ stores.
-
----
-
 ## 👩‍💻 About Me
 
 - 🔍 Interested in Data Analytics, Business Intelligence, Machine Learning, and AI
